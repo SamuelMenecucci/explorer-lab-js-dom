@@ -1,0 +1,9 @@
+//tendo um arquivo de extensions.json dentro do folder .vscode, eu consigo digitar nas extensões @recommended e ira me trazer as extensões que estão recomendadas aqui
+
+{
+  "recommendations": [
+    "PKief.material-icon-theme",
+    "rocketseat.theme-omni",
+    "esbenp.prettier-vscode"
+  ]
+}
